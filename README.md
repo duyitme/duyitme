@@ -20,14 +20,14 @@
   <a href="https://instagram.com/i.am_duy" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
   </a>
-  <a href="mailto:tvduy2807@gmail.com" target="top">
+  <a href="https://tvduy2807@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2 align="center">Too Soon...</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="iamduy-official" />
+  <img src="svg/trungquandev-quotes" width="846" height="150" alt="iamduy-official" />
 </a>
 

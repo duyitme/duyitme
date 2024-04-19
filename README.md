@@ -28,6 +28,6 @@
 <h2 align="center">Too Soon...</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes" width="846" height="150" alt="iamduy-official" />
+  <img src="svg/trungquandev-quotes" width="846" height="150" alt="" />
 </a>
 

@@ -20,7 +20,7 @@
   <a href="https://instagram.com/duyitm3" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
   </a>
-  <a href="tvduy2807@gmail.com" target="top">
+  <a href="https://tvduy2807@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>

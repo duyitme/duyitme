@@ -25,7 +25,7 @@
   </a>
 </div>
 <br>
-<h2 align="center">Too Soon...</h2>
+<h2 align="center">404 NOT FOUND</h2>
 <br>
 <a href="#" target="_blank">
 </a>

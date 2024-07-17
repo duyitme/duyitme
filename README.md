@@ -13,7 +13,7 @@
 <!-- https://icons8.com -->
 <div align="center">
  
-  <a href="https://facebook.com/duyhocit" target="blank">
+  <a href="https://facebook.com/duyitme" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
  
@@ -25,7 +25,7 @@
   </a>
 </div>
 <br>
-<h2 align="center">404 NOT FOUND</h2>
+<h2 align="center">404</h2>
 <br>
 <a href="#" target="_blank">
 </a>

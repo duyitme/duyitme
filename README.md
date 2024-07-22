@@ -26,7 +26,7 @@
 </div>
 <br>
 
-<h2 align="center">Sorry, I Like You</h2>
+<h2 align="center">Loading...</h2>
 <br>
 <a href="#" target="_blank">
 </a>

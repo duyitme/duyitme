@@ -26,7 +26,7 @@
 </div>
 <br>
 
-<h2 align="center">Thank You For Everything <3</h2>
+<h2 align="center">____________________</h2>
 <br>
 <a href="#" target="_blank">
 </a>
